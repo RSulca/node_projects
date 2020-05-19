@@ -1,0 +1,17 @@
+{
+  "name": "2.fundamentos-node",
+  "version": "1.0.0",
+  "description": "This is a simple project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raúl Sulca",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
